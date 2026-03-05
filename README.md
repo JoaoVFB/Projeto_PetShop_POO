@@ -81,7 +81,7 @@ ProjetoPetShop/
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone https://github.com/JoaoVFB/Projeto_PetShop_POO.git
     ```
 2.  **Abra o projeto em uma IDE Java:** Importe o projeto para sua IDE preferida (e.g., IntelliJ IDEA, Eclipse, NetBeans).
 3.  **Compile e Execute:** A partir da IDE, compile e execute a classe `FormPrincipal.java` para iniciar a aplicação.
