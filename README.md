@@ -90,10 +90,5 @@ ProjetoPetShop/
 
 (Adicione aqui as imagens do sistema rodando. Recomenda-se incluir capturas de tela das principais telas e funcionalidades, como o menu principal, cadastro de serviços, agendamento e tratamento de erros.)
 
-## Autor
 
-João Vitor Furquim de Brito
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
