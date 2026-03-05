@@ -74,7 +74,7 @@ ProjetoPetShop/
 │           ├── Servico.java
 │           ├── Tosa.java
 │           └── TosaHigienica.java
-└── pom.xml (se for um projeto Maven)
+└── pom.xml 
 ```
 
 ## Como Rodar o Projeto
@@ -87,8 +87,19 @@ ProjetoPetShop/
 3.  **Compile e Execute:** A partir da IDE, compile e execute a classe `FormPrincipal.java` para iniciar a aplicação.
 
 ## Screenshots
+Demonstração do agendamento de um serviço do tipo banho.
+### Tela de menu principal
+<img width="632" height="377" alt="Tela_Principal" src="https://github.com/user-attachments/assets/f6b829f9-f9ad-4e09-9815-649cc09bcd1f" />
 
-(Adicione aqui as imagens do sistema rodando. Recomenda-se incluir capturas de tela das principais telas e funcionalidades, como o menu principal, cadastro de serviços, agendamento e tratamento de erros.)
 
+### Tela de cadastro
+<img width="691" height="797" alt="Tela_cadastro" src="https://github.com/user-attachments/assets/cef7de6c-2ea5-4659-a3dd-db6c6aa2b6e1" />
 
+### Feedback ao realizar um agendamento com sucesso
+<img width="318" height="166" alt="AgendamentoRealizado" src="https://github.com/user-attachments/assets/888c8379-c7f6-4387-8f7b-e27d65fe7e3e" />
 
+### Tabela com os agendamentos
+<img width="1312" height="523" alt="TabelaDeAgendamentos" src="https://github.com/user-attachments/assets/7939532a-2206-4f30-90d5-468845f7d677" />
+
+## Aprendizado
+Ao construir este projeto do início, fortaleci minhas habilidades analíticas e de resolução de problemas. A aplicação prática foi crucial para solidificar o domínio em Java e nos pilares da Programação Orientada a Objetos.
